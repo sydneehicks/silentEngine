@@ -8,4 +8,4 @@
 
 -------
 
-## A privacy metasearch engine powered by searx.
+##A privacy metasearch engine powered by searx.
