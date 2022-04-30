@@ -19,3 +19,24 @@ A privacy metasearch engine powered by searx.
 ----------------------------------
 Recommendations before installing:
 ----------------------------------
+
+- Change root password with the following command:
+    - sudo passwd root
+- If any commands do not work, change user to root:
+    - su root
+    - Enter password
+- Make sure that the following packages are installed:
+    - Pyyaml
+    - python-dateutil
+    - dateutil.parser
+    - httpx
+    - Flask
+    - Babel 
+    - Flask_babel
+    - pygments
+    - werkzeug
+    - h2
+    - uvloop
+    - httpx_socks
+    - lxml
+    - langdetect
