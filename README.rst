@@ -15,3 +15,7 @@ A privacy metasearch engine powered by searx.
 - Customizable (using preferences)
 - No tracking
 - Uses over 70 search engines
+
+----------------------------------
+Recommendations before installing:
+----------------------------------
