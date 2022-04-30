@@ -89,3 +89,9 @@ Launch SilentEngine
 - run the following command to run SilentEngine!
 	python3 searx/webapp.py
 
+--------------------------
+References:
+--------------------------
+
+- SearX github: https://github.com/searx/searx.git
+- how to install SearX on Ubuntu: https://vitux.com/how-to-install-searx-search-engine-on-ubuntu/
