@@ -8,12 +8,7 @@
 
 -------
 
-=================
-My Project Readme
-=================
--------------------------
-Clever subtitle goes here
--------------------------
+A privacy metasearch engine powered by searx.
 
-Introduction
-============
+
+- Bullet points
