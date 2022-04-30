@@ -20,6 +20,7 @@ A privacy metasearch engine powered by searx.
 Recommendations before installing:
 ----------------------------------
 
+- Use a Ubuntu 20.4 or newer computer.
 - Change root password with the following command:
     - sudo passwd root
 - If any commands do not work, change user to root:
@@ -44,9 +45,25 @@ Recommendations before installing:
 --------------------------
 Installation Instructions:
 --------------------------
-
+- Open Terminal 
 ==================
 Check for updates:
 ==================
 
+Run the command:
 - sudo apt-get update –y
+
+=====================
+Download dependencies
+=====================
+
+Run the command:
+-sudo apt-get install git build-essential python-babel zlib1g-dev libffi-dev libssl-dev libxslt-dev python-dev python-virtualenv -y
+
+- If you get a message: “Package python-virtualenv has not installation candidate”
+   * Run the following commands:
+      * sudo apt-get update
+      * sudo apt-get install python3-virtualenv
+   And python-virtualenv will be installed.
+
+
