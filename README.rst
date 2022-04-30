@@ -41,8 +41,8 @@ Recommendations before installing:
     - lxml
     - langdetect
 
-==========================
+--------------------------
 Installation Instructions:
-==========================
--------------------------
+--------------------------
+
 
