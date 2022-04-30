@@ -8,4 +8,7 @@
 
 -------
 
-# This is an H1 #
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
