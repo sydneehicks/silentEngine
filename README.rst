@@ -81,3 +81,11 @@ Tip:
 
 - go to .../SilentEngine/settings.yml
 - change the secret key! SilentEngine will not run unless the secret key is change from “ultrasecretkey”. You can create your own add it in the file!
+
+=====================
+Launch SilentEngine
+=====================
+
+- run the following command to run SilentEngine!
+	python3 searx/webapp.py
+
