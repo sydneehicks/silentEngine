@@ -40,3 +40,8 @@ Recommendations before installing:
     - httpx_socks
     - lxml
     - langdetect
+
+==========================
+Installation Instructions:
+==========================
+
