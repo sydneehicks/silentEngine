@@ -9,6 +9,8 @@
 -------
 
 A privacy metasearch engine powered by searx.
+
+
 - Self-hosting
 - Customizable (using preferences)
 - No tracking
