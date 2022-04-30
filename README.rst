@@ -45,4 +45,8 @@ Recommendations before installing:
 Installation Instructions:
 --------------------------
 
+==================
+Check for updates:
+==================
 
+- sudo apt-get update –y
