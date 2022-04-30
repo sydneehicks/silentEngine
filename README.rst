@@ -66,4 +66,18 @@ Run the command:
       * sudo apt-get install python3-virtualenv
    And python-virtualenv will be installed.
 
+=====================
+Install SilentEngine
+=====================
 
+- Change the directory to where you would like SilentEngine to be stored
+   * cd <directory name>
+- Clone the GitHub repository:
+   * sudo git clone https://github.com/sydneehicks/silentEngine.git
+
+==================
+Tip:
+==================
+
+- go to .../SilentEngine/settings.yml
+- change the secret key! SilentEngine will not run unless the secret key is change from “ultrasecretkey”. You can create your own add it in the file!
